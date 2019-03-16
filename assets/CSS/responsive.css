@@ -1,100 +1,121 @@
 @media (max-width: 991px){
 .dot, .dot_1{
 	display: none;
-}}
-
+}
+}
 
 @media (max-width: 900px){
-	.gridimg{
+.gridimg{
 		height: 350px;
-	}
-	#tbl_1{
+}
+
+#tbl_1{
 		height: 350px;
-	}
-	.WHITE_2 h3 {
+}
+
+.WHITE_2 h3 {
 	font-size: 20px;
-} 
+}
+
 #Anna img{
 	order: 2;
 }
+
 .cover_2, .cover_3{
 	transform: translateY(-100px);
     width: 200px;
     height: 200px;
 }
+
 .img{
 	height: 380px;
 }
+
 .blog_1 {
     transform: translateY(-295px);
     margin-left: 15%;
 }
+
 #footer{
 	font-size: 15px;
 }
+
 .error {
     font-size: 200px;
 }
+
 .WHOOPS {
     font-size: 45px;
     transform: translateY(-140px);
 }
+
 .not_found {
     font-size: 10px;
 }
+
 .back {
     font-size: 10px;
 }
 
-
 .share a {
 	margin: 10px;
 }
-}
 
+}
 
 @media (max-width: 600px){
-	#WHITE img {
+#WHITE img {
     width: 362px;
 }
+
 .WHITE_2 {
     width: 361px;
     margin-left: 0px;
-    }
+}
+
 .WHITE_2 h3 {
 	font-size: 17px;
-}  
+}
+
 .gridimg{
 		height: 250px;
-	}
-	#tbl_1{
+}
+
+#tbl_1{
 		height: 250px;
-	}
-	.cover_2, .cover_3{
+}
+
+.cover_2, .cover_3{
 	transform: translateY(-80px);
     width: 160px;
     height: 160px;
 }
+
 .error {
     font-size: 100px;
 }
+
 .WHOOPS {
     transform: translateY(-80px);
 }
-}
+
 .Kushtia{
 	width: 400px;
 }
+
 .img{
 	height: 280px;
 }
+
 .thanks h4 {
-	font-size: 13px;
+	font-size: 17px;
 }
+
 .share a{
 	margin:6px;
 	font-size: 12px;
 }
+
 #footer{
 	font-size: 10px;
 }
@@ -103,6 +124,7 @@
     transform: translateY(-195px);
     margin-left: 5%;
 }
+
 .by {
 	font-size: 13px;
 }
