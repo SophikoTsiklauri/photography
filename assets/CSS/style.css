@@ -362,6 +362,7 @@ td{
 	margin:19px;
 }
 .WHITE_1{
+	outline: none!important;
 	margin-top: 50px;
 	display: flex!important;
     flex-wrap: wrap;
@@ -492,6 +493,7 @@ font-family: LibreBaskerville-Bold;
     height: inherit;
 }
 .share_1{
+	outline: none!important;
 	width: 100%;
 	display: flex!important;
     flex-wrap: wrap;
