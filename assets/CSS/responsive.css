@@ -115,7 +115,12 @@
 	margin:6px;
 	font-size: 12px;
 }
-
+.not_found{
+	transform: translateY(-95px);
+}
+.back{
+	transform: translateY(-95px);
+}
 #footer{
 	font-size: 10px;
 }

@@ -442,12 +442,9 @@ font-family: LibreBaskerville-Bold;
 	padding-top:15px;
 	padding-left:15px;
 }
-.errors{
-	position: relative;
-}
+
 .error{
 	font-family: LemonMilkbold;
-    
     font-size: 300px;
     color: #E5EFF5;
     margin-left: 18%;
@@ -461,12 +458,14 @@ font-family: LibreBaskerville-Bold;
 	transform: translateY(-240px);
 }
 .not_found{
+	transform: translateY(-195px);
 	font-family: LibreBaskerville-Italic;
 	font-size: 20px;
 	color: #343F44;
 	margin-left: 40%;
 }
 .back{
+	transform: translateY(-195px);
 	font-family: LibreBaskerville-Regular;
 	color: #313131;
 	font-size: 20px;
@@ -479,7 +478,9 @@ font-family: LibreBaskerville-Bold;
 	display: flex;
     flex-wrap: nowrap;
 }
-
+.navbar-brand{
+	margin-top: -8px;
+}
 .share a{
 	margin:20px;
 	color: #000000;

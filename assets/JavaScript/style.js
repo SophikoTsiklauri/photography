@@ -22,7 +22,7 @@ $(document).ready(function(){
     var tbl_1  = document.querySelector('#tbl_1');
     var w = window.innerWidth;
     var n=w/10;
-    var h=document.querySelector('.gridimg').offsetHeight;
+    var h=tbl_1.offsetHeight;
     var m=h/10;
     for(var i = 0; i < m; i++){
         var tr = tbl_1.insertRow();
